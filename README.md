@@ -1,2 +1,2 @@
 # Fresh-Start
-This is the repository that has all of my learning journeys Starting at 26/11/2025
+This is the repository that has all of my learning journeys Starting from 26/11/2025
